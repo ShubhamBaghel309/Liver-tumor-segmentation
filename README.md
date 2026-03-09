@@ -1,4 +1,4 @@
-# 3D Liver & Tumor Segmentation — Milestone 1
+# 3D Liver & Tumor Segmentation 
 
 Automated segmentation of the **liver** and **liver tumors** in abdominal CT scans using 3D deep learning.  
 This milestone covers the complete ML pipeline: data preprocessing, model training, evaluation, and inference — implemented as Jupyter Notebooks.
